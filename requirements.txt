@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-anthropic
+langsmith
+python-dotenv
+pydantic
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pip-system-certs==5.3
+langchain-openai

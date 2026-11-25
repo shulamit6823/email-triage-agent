@@ -1,0 +1,26 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+credentials.json
+token.json
+
+# API keys
+.env
+.env.local
+
+# Google OAuth credentials
+credentials.json
+token.json
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+agent_state.db
+agent_state.db-shm
+agent_state.db-wal
+nodes_strict.py
